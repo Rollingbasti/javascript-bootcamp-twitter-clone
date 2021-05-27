@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone/issues"
   },
-  "homepage": "https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone#readme"
+  "homepage": "https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2",
+    "redis": "^3.1.2"
+  }
 }
