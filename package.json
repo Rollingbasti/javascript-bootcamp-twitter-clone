@@ -1,0 +1,26 @@
+{
+  "name": "javascript-bootcamp-twitter-clone",
+  "version": "1.0.0",
+  "description": "My solution for the twitter clone project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Bootcamp",
+    "Redis",
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Sebastian Schlegel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone/issues"
+  },
+  "homepage": "https://github.com/Rollingbasti/javascript-bootcamp-twitter-clone#readme"
+}
